@@ -1,0 +1,25 @@
+{
+    "name": "Jeff Chan",
+    "age": 108,
+    "address": {
+        "street": "Travis Burgs",
+        "city": "Port Huntermouth",
+        "state": "North Dakota",
+        "zip": "56576"
+    },
+    "contact": {
+        "phone": "640.671.1346x788",
+        "servicePhone": "800314146"
+    },
+    "birthday": "1917-05-08",
+    "ip": "108.152.94.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Project though stuff court east majority. Continue never bag.",
+        "bio": "Go maintain writer reach key science. College movie bed life six general cover.\nBlack agency stuff girl measure bed. Far later development away."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
