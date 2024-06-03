@@ -1,0 +1,25 @@
+{
+    "name": "Charles Vance",
+    "age": 80,
+    "address": {
+        "street": "Nancy Stravenue",
+        "city": "Port Jerry",
+        "state": "Nebraska",
+        "zip": "79045"
+    },
+    "contact": {
+        "phone": "996.672.1993x648",
+        "servicePhone": "800088432"
+    },
+    "birthday": "1945-05-01",
+    "ip": "125.223.47.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Exist test forward summer court specific. Shoulder high human minute. Again defense cost inside concern age none. Authority radio itself miss character environmental.",
+        "bio": "Memory season character win safe also candidate. Small summer effect shake one surface four. Modern realize than crime network."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
