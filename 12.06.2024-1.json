@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Graves",
+    "age": 41,
+    "address": {
+        "street": "Ethan Trail",
+        "city": "South Michaelmouth",
+        "state": "Illinois",
+        "zip": "08152"
+    },
+    "contact": {
+        "phone": "5798385173",
+        "servicePhone": "800353963"
+    },
+    "birthday": "1984-24-02",
+    "ip": "17.181.24.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Yeah you thank environment. Reflect himself seem in page into song. Within performance month young product matter which night. Realize decision rich method politics.",
+        "bio": "Education offer meeting. Foreign avoid official check keep effort accept same. Go seek they affect prove inside.\nSimilar blue know matter. Focus unit tell science I. Where why hit manager quality."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
