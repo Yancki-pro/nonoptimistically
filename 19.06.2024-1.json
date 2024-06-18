@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Clark",
+    "age": 37,
+    "address": {
+        "street": "Sandoval Parkways",
+        "city": "North Robertland",
+        "state": "Illinois",
+        "zip": "29777"
+    },
+    "contact": {
+        "phone": "+1-733-660-7361x91085",
+        "servicePhone": "800554807"
+    },
+    "birthday": "1988-31-10",
+    "ip": "105.87.146.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Product door enjoy beyond Democrat name. Concern teacher group often security. Official minute organization note eight total step.",
+        "bio": "Beyond push customer poor today clearly serious. Question white sell present still top present."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
