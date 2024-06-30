@@ -1,0 +1,25 @@
+{
+    "name": "John Garcia",
+    "age": 76,
+    "address": {
+        "street": "Jackson Hollow",
+        "city": "South Misty",
+        "state": "South Dakota",
+        "zip": "57966"
+    },
+    "contact": {
+        "phone": "6182967442",
+        "servicePhone": "800563086"
+    },
+    "birthday": "1949-23-12",
+    "ip": "178.113.102.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Land can federal son. Turn vote box ground easy member. Same imagine control lay sure either morning.\nGeneration let consider. Whom my medical light smile. Affect response from education.",
+        "bio": "Amount of on little action. Discussion item deal. During career team lead behind meeting result summer."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
