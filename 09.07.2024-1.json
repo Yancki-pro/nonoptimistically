@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Allen",
+    "age": 63,
+    "address": {
+        "street": "Andrew Avenue",
+        "city": "Bradleyton",
+        "state": "Wisconsin",
+        "zip": "12716"
+    },
+    "contact": {
+        "phone": "(780)625-4614x2703",
+        "servicePhone": "800892001"
+    },
+    "birthday": "1962-04-06",
+    "ip": "214.30.178.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside country speech everything blue. Half protect then majority chair mission policy religious.\nOld rather beat six goal town store. Show toward move able.",
+        "bio": "Pass fine behind friend everybody education police. Write candidate someone trouble kind.\nCertain including role we. Subject appear work sister. Middle them simply peace owner."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
