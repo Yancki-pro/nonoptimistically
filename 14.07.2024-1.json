@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Carr",
+    "age": 70,
+    "address": {
+        "street": "Taylor Lake",
+        "city": "Lake Traceyberg",
+        "state": "West Virginia",
+        "zip": "41892"
+    },
+    "contact": {
+        "phone": "(401)330-1899",
+        "servicePhone": "800524480"
+    },
+    "birthday": "1955-03-05",
+    "ip": "40.134.161.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Response paper moment involve. Likely reality political senior sense here.\nLife leave man friend new wife. Town later really.\nNearly my course politics.",
+        "bio": "Tax easy husband yard world generation box ok. Star number carry mention generation attack. Perform bring whose boy.\nBig author none reveal I rather suddenly. Appear maybe spring pay government."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
