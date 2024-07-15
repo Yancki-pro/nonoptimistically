@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mooney",
+    "age": 10,
+    "address": {
+        "street": "Watson Crescent",
+        "city": "North Jackie",
+        "state": "Washington",
+        "zip": "17488"
+    },
+    "contact": {
+        "phone": "543-226-5090",
+        "servicePhone": "800697167"
+    },
+    "birthday": "2015-23-11",
+    "ip": "68.96.116.11",
+    "foo": "bar",
+    "profile": {
+        "about": "The suffer past he. Inside bed what sell.\nGovernment authority central matter contain. Former blue order change option.",
+        "bio": "Court family population whatever community serve popular. Try phone near expect poor necessary population.\nExpert practice concern put. Result record population voice guess."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
