@@ -1,0 +1,25 @@
+{
+    "name": "Belinda Cummings",
+    "age": 90,
+    "address": {
+        "street": "Beth Street",
+        "city": "Lake Thomasmouth",
+        "state": "Pennsylvania",
+        "zip": "19712"
+    },
+    "contact": {
+        "phone": "830.689.5584x164",
+        "servicePhone": "800312633"
+    },
+    "birthday": "1935-28-04",
+    "ip": "109.24.162.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Remember enjoy fight. Small help machine music stand around.\nReduce product strategy surface apply. Game hundred just rise capital fish draw.",
+        "bio": "Through scene its point administration. Information child dark great boy teacher. Want trial bad leave nice appear."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
