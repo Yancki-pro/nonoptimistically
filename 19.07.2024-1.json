@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Scott DVM",
+    "age": 112,
+    "address": {
+        "street": "Wolf Station",
+        "city": "Lorifort",
+        "state": "Arizona",
+        "zip": "70765"
+    },
+    "contact": {
+        "phone": "(242)604-8052x21193",
+        "servicePhone": "800884937"
+    },
+    "birthday": "1913-14-03",
+    "ip": "61.203.189.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Individual simple dark write. Such too fish main every value cultural. Chair to society cultural.",
+        "bio": "Drug cell gun represent member. Fish help summer car matter news age.\nCase rate rule. Just imagine degree tell however method lose traditional."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
