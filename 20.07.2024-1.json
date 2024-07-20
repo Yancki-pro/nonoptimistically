@@ -1,0 +1,25 @@
+{
+    "name": "Bruce Reed",
+    "age": 67,
+    "address": {
+        "street": "Gaines Viaduct",
+        "city": "East Wesleyfurt",
+        "state": "North Carolina",
+        "zip": "82228"
+    },
+    "contact": {
+        "phone": "(746)864-2542",
+        "servicePhone": "800241360"
+    },
+    "birthday": "1958-24-02",
+    "ip": "212.176.20.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Local between store set say. Since discussion station rate avoid large appear. Must without sister economic.\nGoal if general indicate. Bed me direction event suddenly.",
+        "bio": "Season foreign bed shake citizen third section court. Control religious wall mother policy evening.\nJob dog by each reason. Tonight night your box cold attack catch."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
