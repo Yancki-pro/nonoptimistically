@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Evans",
+    "age": 84,
+    "address": {
+        "street": "Williams Brooks",
+        "city": "East Steveshire",
+        "state": "Florida",
+        "zip": "50278"
+    },
+    "contact": {
+        "phone": "957-860-7638",
+        "servicePhone": "800680408"
+    },
+    "birthday": "1941-24-12",
+    "ip": "47.134.175.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen establish condition city but others. Pretty identify page.\nSerious visit situation we including call knowledge. Effort a something again important discussion.",
+        "bio": "Send remain note set single lead president. Ask as culture ready such. Wife security ball those just together. Human mouth write staff."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
