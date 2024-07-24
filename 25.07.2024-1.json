@@ -1,0 +1,25 @@
+{
+    "name": "Michael Phillips",
+    "age": 24,
+    "address": {
+        "street": "Christopher Locks",
+        "city": "West Annview",
+        "state": "North Carolina",
+        "zip": "56219"
+    },
+    "contact": {
+        "phone": "720-875-1367x4720",
+        "servicePhone": "800457527"
+    },
+    "birthday": "2001-10-05",
+    "ip": "158.5.17.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Without yard western case candidate college election. Scene they line leg. Inside magazine their law.\nRole which arm southern. Someone pattern him court room.",
+        "bio": "Family less word kid key wear. Work military single agent change campaign three. Bit clear would pull coach case.\nFast arm cold. Each house quickly land expert travel."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
