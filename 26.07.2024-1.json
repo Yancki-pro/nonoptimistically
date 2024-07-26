@@ -1,0 +1,25 @@
+{
+    "name": "James Robinson",
+    "age": 94,
+    "address": {
+        "street": "Kimberly Station",
+        "city": "Lake Angela",
+        "state": "West Virginia",
+        "zip": "28145"
+    },
+    "contact": {
+        "phone": "483.541.5433x252",
+        "servicePhone": "800644718"
+    },
+    "birthday": "1931-15-04",
+    "ip": "113.214.117.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen itself arm to senior try. Artist official clearly career half toward myself.\nPolice force rich affect imagine.\nOrganization gun part. Well follow situation.",
+        "bio": "Who past ball lot. Account relationship too despite door.\nManager everyone nothing. Six article left machine technology sort."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
