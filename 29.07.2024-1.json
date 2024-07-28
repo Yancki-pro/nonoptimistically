@@ -1,0 +1,25 @@
+{
+    "name": "Christine Campbell",
+    "age": 102,
+    "address": {
+        "street": "Rodriguez Crossroad",
+        "city": "Crystalfort",
+        "state": "Arkansas",
+        "zip": "39819"
+    },
+    "contact": {
+        "phone": "702.715.6736x568",
+        "servicePhone": "800993252"
+    },
+    "birthday": "1923-06-04",
+    "ip": "23.63.37.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Always them treatment growth quality generation. Hope strong purpose kitchen beyond night outside.\nNewspaper important last quickly performance. Prevent everything long choose dog employee everybody.",
+        "bio": "Notice would lose in attention. Husband however business possible write personal while. Score ahead into wish."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
