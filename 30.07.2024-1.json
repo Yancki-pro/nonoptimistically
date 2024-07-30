@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Zimmerman",
+    "age": 70,
+    "address": {
+        "street": "Kendra Station",
+        "city": "Hooverberg",
+        "state": "New Hampshire",
+        "zip": "20925"
+    },
+    "contact": {
+        "phone": "001-305-274-8784x0225",
+        "servicePhone": "800763194"
+    },
+    "birthday": "1955-31-03",
+    "ip": "183.57.252.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Represent organization hour rise later actually carry. Each score final finally contain level. Interesting happen type feeling work institution.",
+        "bio": "His charge body whole fact perhaps here close. Natural education value no election drop lose eye. Start upon both natural stay such.\nNetwork factor sister director. Dark health on model radio."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
