@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Cook",
+    "age": 84,
+    "address": {
+        "street": "Lewis Underpass",
+        "city": "East Peter",
+        "state": "Idaho",
+        "zip": "88606"
+    },
+    "contact": {
+        "phone": "(874)393-2528",
+        "servicePhone": "800358210"
+    },
+    "birthday": "1941-19-12",
+    "ip": "122.117.155.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Major production include mouth take mention. Rate their tough Republican bit great.\nPerhaps party almost magazine hear my painting seven. Build line exactly father. Reveal cause population top.",
+        "bio": "Four score mouth nor. Cup truth family back trade crime. National manager someone economy.\nForm knowledge site like. Song history daughter decision whose. Play major if hotel manager cup strong."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
