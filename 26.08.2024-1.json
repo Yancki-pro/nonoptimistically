@@ -1,0 +1,25 @@
+{
+    "name": "Donald Hodges",
+    "age": 72,
+    "address": {
+        "street": "Rhonda Hill",
+        "city": "New Stephen",
+        "state": "Alabama",
+        "zip": "50289"
+    },
+    "contact": {
+        "phone": "399-291-1743x21494",
+        "servicePhone": "800287542"
+    },
+    "birthday": "1953-30-06",
+    "ip": "211.65.114.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Family how by social. Purpose music capital hundred painting happy.\nMonth phone outside read when. At still agency cost wrong.",
+        "bio": "Buy deal teacher strong sound quickly. Size especially four improve remember. Evidence recently strategy some news gas."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
