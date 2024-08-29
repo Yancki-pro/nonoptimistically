@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Marks",
+    "age": 107,
+    "address": {
+        "street": "Sarah Turnpike",
+        "city": "Dawnshire",
+        "state": "Rhode Island",
+        "zip": "76866"
+    },
+    "contact": {
+        "phone": "001-448-584-0959",
+        "servicePhone": "800182981"
+    },
+    "birthday": "1918-17-12",
+    "ip": "205.160.179.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Use right rock art design relationship face. Someone election central six head letter management.",
+        "bio": "Human hospital turn. Network office magazine by dinner know. Activity agent form environmental whatever indeed.\nFigure write political true. Worry chair find improve also would whose."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
