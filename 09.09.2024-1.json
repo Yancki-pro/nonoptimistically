@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Lee",
+    "age": 29,
+    "address": {
+        "street": "Mary Trail",
+        "city": "Robertsonmouth",
+        "state": "Washington",
+        "zip": "35660"
+    },
+    "contact": {
+        "phone": "881.510.7526",
+        "servicePhone": "800499165"
+    },
+    "birthday": "1996-05-01",
+    "ip": "33.182.48.154",
+    "foo": "bar",
+    "profile": {
+        "about": "International any no minute prove speak out. Order not fill from every administration job leg.\nApply care past political manager affect. Long the soon Mrs relationship outside democratic pay.",
+        "bio": "Tax he material black more sometimes oil. Very sit question. Notice by most right.\nCongress how prevent phone certainly car make. Tend but very. Husband themselves somebody air."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
