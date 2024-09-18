@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Banks",
+    "age": 112,
+    "address": {
+        "street": "Christopher Forge",
+        "city": "South Julieland",
+        "state": "Vermont",
+        "zip": "04881"
+    },
+    "contact": {
+        "phone": "6294492415",
+        "servicePhone": "800303660"
+    },
+    "birthday": "1913-05-08",
+    "ip": "9.39.16.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Support couple offer institution movement food project. Market blue goal design technology major space.",
+        "bio": "Attention later establish suddenly behavior step with near. Upon kind read however least suggest want.\nParticularly body happy high natural. Son return home detail serious he ahead."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
