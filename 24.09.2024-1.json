@@ -1,0 +1,25 @@
+{
+    "name": "Jason Lang",
+    "age": 28,
+    "address": {
+        "street": "Michelle Cliffs",
+        "city": "South Kaylaburgh",
+        "state": "Hawaii",
+        "zip": "85927"
+    },
+    "contact": {
+        "phone": "001-359-406-8698x799",
+        "servicePhone": "800499229"
+    },
+    "birthday": "1997-08-06",
+    "ip": "16.15.74.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Training great although police across. Color identify very environmental page three. New rock development account this analysis.\nOwn say dinner sense seem quality. Write design he analysis.",
+        "bio": "Finally heart from establish reach yard paper. Improve local certainly floor off few occur."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
