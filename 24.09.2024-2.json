@@ -1,0 +1,25 @@
+{
+    "name": "Erika Hernandez",
+    "age": 59,
+    "address": {
+        "street": "Laura Cape",
+        "city": "Schwartzhaven",
+        "state": "Minnesota",
+        "zip": "31056"
+    },
+    "contact": {
+        "phone": "(475)267-6952x82499",
+        "servicePhone": "800365123"
+    },
+    "birthday": "1966-06-12",
+    "ip": "150.209.51.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Team ahead maintain the as school project. Road beautiful hundred pressure role base.\nCase pull best room. See where remember item recent possible. Without fast forward some TV. Full your method.",
+        "bio": "Themselves decision executive ok. Moment grow American size so ready until. Mrs drop set detail although.\nCulture fire throughout force look. For example democratic view player."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
