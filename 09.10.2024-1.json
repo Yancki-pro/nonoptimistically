@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Brown",
+    "age": 59,
+    "address": {
+        "street": "Thomas Gateway",
+        "city": "Port Diana",
+        "state": "Missouri",
+        "zip": "58632"
+    },
+    "contact": {
+        "phone": "8443906378",
+        "servicePhone": "800035437"
+    },
+    "birthday": "1966-28-12",
+    "ip": "195.46.232.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Present nor even feeling. Good let us audience interview. Dog write without article kitchen.",
+        "bio": "Apply industry perhaps then building reason child daughter.\nHit everybody each main fly develop. Guy dark really small network."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
