@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Sutton",
+    "age": 49,
+    "address": {
+        "street": "Wagner Point",
+        "city": "Lake Rachel",
+        "state": "New Hampshire",
+        "zip": "70184"
+    },
+    "contact": {
+        "phone": "(553)293-1207",
+        "servicePhone": "800071212"
+    },
+    "birthday": "1976-13-10",
+    "ip": "96.75.198.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus deal all. Force politics enjoy against. Theory those especially attention organization least everything.",
+        "bio": "Water administration education arm. Wide over center affect leg each. Decide personal go through public front.\nThis new throughout population candidate base day world. Yard husband turn cultural."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
