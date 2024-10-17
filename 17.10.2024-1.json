@@ -1,0 +1,25 @@
+{
+    "name": "Charles Rivera",
+    "age": 4,
+    "address": {
+        "street": "Michael Wall",
+        "city": "Garciaburgh",
+        "state": "Alabama",
+        "zip": "73859"
+    },
+    "contact": {
+        "phone": "+1-648-314-3283x9519",
+        "servicePhone": "800948909"
+    },
+    "birthday": "2021-27-05",
+    "ip": "68.79.251.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion everybody table site business democratic. Suddenly group require item interest employee fight. Professor say behavior opportunity.",
+        "bio": "Laugh study admit air. His church family fly country. Of collection they our return will store.\nProcess likely many. Fast director current. Think crime seem."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
