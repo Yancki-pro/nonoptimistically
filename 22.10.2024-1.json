@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Smith",
+    "age": 75,
+    "address": {
+        "street": "Russell Port",
+        "city": "Bowersside",
+        "state": "Arkansas",
+        "zip": "35485"
+    },
+    "contact": {
+        "phone": "3668801727",
+        "servicePhone": "800192244"
+    },
+    "birthday": "1950-02-02",
+    "ip": "139.89.36.196",
+    "foo": "bar",
+    "profile": {
+        "about": "People what might around author. Anything police government tax election executive PM suddenly. Send especially sea arrive.",
+        "bio": "Accept guess clearly serve though only feel choose. Sea less town.\nSeat debate community billion."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
