@@ -1,0 +1,25 @@
+{
+    "name": "Edward Blackwell",
+    "age": 57,
+    "address": {
+        "street": "Clay Isle",
+        "city": "East Derrick",
+        "state": "South Carolina",
+        "zip": "90811"
+    },
+    "contact": {
+        "phone": "926-796-0772x87460",
+        "servicePhone": "800715643"
+    },
+    "birthday": "1968-28-10",
+    "ip": "87.204.46.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager fast both believe think certain most crime.\nOrganization citizen hundred. Organization consider government street news time win. His service remember include know.",
+        "bio": "News put without leave national product. Be prevent item without capital red. Summer four see new.\nOwn data minute form law. Determine oil traditional compare difference material sea."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
