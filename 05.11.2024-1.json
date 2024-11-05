@@ -1,0 +1,25 @@
+{
+    "name": "Mathew Ingram",
+    "age": 113,
+    "address": {
+        "street": "Lloyd Views",
+        "city": "Lambertland",
+        "state": "Texas",
+        "zip": "41272"
+    },
+    "contact": {
+        "phone": "+1-224-378-3464x01177",
+        "servicePhone": "800754052"
+    },
+    "birthday": "1912-15-02",
+    "ip": "133.187.89.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Control one lose agreement. Child range method moment campaign scientist.\nNewspaper nature there owner up ask front. Site left matter. Blue race worker relationship training.",
+        "bio": "Hundred rich week section explain industry woman. Rather conference necessary student.\nStyle six both class dog machine understand major."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
