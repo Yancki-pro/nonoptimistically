@@ -1,0 +1,25 @@
+{
+    "name": "Jose Holland",
+    "age": 37,
+    "address": {
+        "street": "Malone Estate",
+        "city": "Rossport",
+        "state": "North Carolina",
+        "zip": "82937"
+    },
+    "contact": {
+        "phone": "+1-724-360-9610x764",
+        "servicePhone": "800786471"
+    },
+    "birthday": "1988-20-01",
+    "ip": "206.215.112.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Education environment almost out leg. Phone energy she fall bank. Simply couple five return coach policy whole.\nLead natural tonight involve. Suddenly family technology community subject.",
+        "bio": "Set in up. Without cup leader well never visit discuss relate.\nQuality occur pull plan someone politics. Half into follow operation likely."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
