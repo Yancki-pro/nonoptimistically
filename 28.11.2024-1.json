@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Harmon",
+    "age": 17,
+    "address": {
+        "street": "Adam Inlet",
+        "city": "Port Elizabethmouth",
+        "state": "Utah",
+        "zip": "07068"
+    },
+    "contact": {
+        "phone": "+1-245-371-6398x539",
+        "servicePhone": "800248268"
+    },
+    "birthday": "2008-02-11",
+    "ip": "43.250.141.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Response everybody who administration she. Nation available end play probably majority project. Remain high usually moment surface should.\nPower practice along discover recent into mean side.",
+        "bio": "Capital project upon physical truth structure. Eight eight join appear explain phone.\nClose our success least challenge. Direction catch against month."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
