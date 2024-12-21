@@ -1,0 +1,25 @@
+{
+    "name": "Gary Bell",
+    "age": 81,
+    "address": {
+        "street": "Jennifer Cove",
+        "city": "Johnport",
+        "state": "Ohio",
+        "zip": "73410"
+    },
+    "contact": {
+        "phone": "001-524-724-2409x0716",
+        "servicePhone": "800963658"
+    },
+    "birthday": "1944-19-12",
+    "ip": "32.194.48.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion process voice. Health generation employee spring interest.\nImprove upon sister government much. Deep through south community feeling me if major.",
+        "bio": "Kitchen color green professor appear mission boy since. Role bag strategy market behind. Yes arm wonder hour science operation."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
