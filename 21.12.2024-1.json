@@ -1,0 +1,25 @@
+{
+    "name": "Linda Kerr",
+    "age": 4,
+    "address": {
+        "street": "Horton Lights",
+        "city": "Phillipsmouth",
+        "state": "New Mexico",
+        "zip": "56042"
+    },
+    "contact": {
+        "phone": "220.653.4313",
+        "servicePhone": "800200409"
+    },
+    "birthday": "2021-21-05",
+    "ip": "205.59.195.222",
+    "foo": "bar",
+    "profile": {
+        "about": "When second animal thank far two maybe. Ability forward authority Democrat reduce member. Improve research network choice owner line.",
+        "bio": "Team position know over continue source. Land six try exist stay. Better maintain performance two hear teacher close.\nDevelop way line free place most almost especially. Have free role."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
