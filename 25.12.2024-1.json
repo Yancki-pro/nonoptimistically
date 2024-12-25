@@ -1,0 +1,25 @@
+{
+    "name": "Krystal Leonard",
+    "age": 114,
+    "address": {
+        "street": "Snyder Expressway",
+        "city": "Burnettton",
+        "state": "Delaware",
+        "zip": "66942"
+    },
+    "contact": {
+        "phone": "861-794-5507",
+        "servicePhone": "800184549"
+    },
+    "birthday": "1911-17-10",
+    "ip": "80.121.230.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Option foreign situation center nothing. Apply be clear fine fly consider notice.\nHere note our candidate. Particular account best. Executive heavy name thank finally authority goal local.",
+        "bio": "Image bed entire could every important the. Dream space compare tell. Whole east space democratic war.\nHouse give audience. Teacher see kind report others represent all food."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
