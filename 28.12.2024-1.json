@@ -1,0 +1,25 @@
+{
+    "name": "Zachary White",
+    "age": 29,
+    "address": {
+        "street": "Jessica Viaduct",
+        "city": "Mcbrideborough",
+        "state": "New Mexico",
+        "zip": "93680"
+    },
+    "contact": {
+        "phone": "(891)262-0259",
+        "servicePhone": "800180981"
+    },
+    "birthday": "1996-11-06",
+    "ip": "223.66.209.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Mission particular seem through edge these. Player your relationship. Why mention catch street choose growth ground.\nFactor able especially bad once black.",
+        "bio": "Nothing chance nature about. Tv performance beautiful size war effort worry.\nBuilding especially affect tough answer world gas. Make set soon guy would eat none."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
