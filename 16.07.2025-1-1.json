@@ -1,0 +1,25 @@
+{
+    "name": "Monica Parker",
+    "age": 92,
+    "address": {
+        "street": "Brian Creek",
+        "city": "Whitneyton",
+        "state": "Rhode Island",
+        "zip": "19442"
+    },
+    "contact": {
+        "phone": "+1-724-507-2341x1473",
+        "servicePhone": "800781835"
+    },
+    "birthday": "1933-01-06",
+    "ip": "126.235.171.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Player sing run north. Long fly hot even make us tell.",
+        "bio": "Rich skill business score include magazine. Between increase oil.\nWide society economic interesting age third. Program form focus fine represent whom. Beautiful establish society green situation."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
