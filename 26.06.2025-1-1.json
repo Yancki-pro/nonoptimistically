@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Gonzalez",
+    "age": 101,
+    "address": {
+        "street": "Thomas Cape",
+        "city": "West William",
+        "state": "Missouri",
+        "zip": "03948"
+    },
+    "contact": {
+        "phone": "447.232.4985",
+        "servicePhone": "800321780"
+    },
+    "birthday": "1924-28-10",
+    "ip": "175.17.247.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Message dog science. Enjoy benefit religious party represent leg walk. Star institution deep area early whether.\nCell unit none year among. This no affect data.",
+        "bio": "General hear road protect bit remain. Sea level work suggest. Particularly lay person and.\nEnvironment data available gas energy. Audience community where skin everybody onto partner."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jody Simmons",
+    "age": 34,
+    "address": {
+        "street": "Lewis Common",
+        "city": "New Kimberlyville",
+        "state": "North Carolina",
+        "zip": "08400"
+    },
+    "contact": {
+        "phone": "+1-883-952-2448x9140",
+        "servicePhone": "800429826"
+    },
+    "birthday": "1991-08-01",
+    "ip": "154.139.158.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Ask ok have trade eye strong. Certainly offer enough. Require hospital drop southern thought size prevent. Political word return south enjoy.",
+        "bio": "Mother represent weight yeah small another agency. Chair dinner without to third direction offer start. Stock network laugh either network no. Action into protect exactly occur simple common."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
