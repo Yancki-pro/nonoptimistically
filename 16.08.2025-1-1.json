@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Murray",
+    "age": 63,
+    "address": {
+        "street": "Veronica Lodge",
+        "city": "Hansenberg",
+        "state": "North Dakota",
+        "zip": "23406"
+    },
+    "contact": {
+        "phone": "593.827.9996x642",
+        "servicePhone": "800970790"
+    },
+    "birthday": "1962-13-03",
+    "ip": "196.195.225.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation certain according individual imagine phone worry. Score actually within. Poor American wall.\nLeg their science despite. Especially good study.",
+        "bio": "Loss security agree cause. Help mission do best maybe low different. Unit new carry key.\nRecord budget economic. Four be later able us. At produce news marriage difficult."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}

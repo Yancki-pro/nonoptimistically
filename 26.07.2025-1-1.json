@@ -1,0 +1,25 @@
+{
+    "name": "Debra Young",
+    "age": 45,
+    "address": {
+        "street": "Owens Crossing",
+        "city": "New Bethanyton",
+        "state": "Vermont",
+        "zip": "50010"
+    },
+    "contact": {
+        "phone": "896-396-5249",
+        "servicePhone": "800795080"
+    },
+    "birthday": "1980-25-01",
+    "ip": "61.235.229.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Police card know get. Simply staff on eye. Picture notice agent majority tree face.\nFinally structure all upon. Marriage writer soon alone.",
+        "bio": "Teacher federal event institution five. Federal develop building age hot. Southern down show note high page group."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
