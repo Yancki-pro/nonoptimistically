@@ -1,0 +1,25 @@
+{
+    "name": "Shelly Johnson",
+    "age": 105,
+    "address": {
+        "street": "Emily Flats",
+        "city": "Robinsonbury",
+        "state": "West Virginia",
+        "zip": "07483"
+    },
+    "contact": {
+        "phone": "001-533-802-9802",
+        "servicePhone": "800709927"
+    },
+    "birthday": "1920-10-07",
+    "ip": "42.194.220.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Do pretty respond this population threat trouble although. Experience every structure military. When standard they power during.",
+        "bio": "Window five rock good happen institution candidate meeting. Or draw alone person boy site.\nWish huge and budget color care look where. Follow should every collection. Time sport natural ball threat."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
