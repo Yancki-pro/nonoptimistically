@@ -1,0 +1,25 @@
+{
+    "name": "Reginald Brown",
+    "age": 18,
+    "address": {
+        "street": "Natalie Mount",
+        "city": "Wintersland",
+        "state": "Missouri",
+        "zip": "41902"
+    },
+    "contact": {
+        "phone": "7133773687",
+        "servicePhone": "800381819"
+    },
+    "birthday": "2007-28-02",
+    "ip": "78.198.61.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing lead onto series this large. Thing girl enjoy available.\nOne technology late spring. Machine blue grow animal court laugh reflect.",
+        "bio": "His air opportunity together coach audience. Should lay focus cost wonder real list. Democratic something player although field computer report."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}

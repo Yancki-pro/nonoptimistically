@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Smith",
+    "age": 28,
+    "address": {
+        "street": "Kelly Plains",
+        "city": "Lake Lawrence",
+        "state": "Ohio",
+        "zip": "26985"
+    },
+    "contact": {
+        "phone": "+1-740-383-5495x315",
+        "servicePhone": "800387772"
+    },
+    "birthday": "1997-18-09",
+    "ip": "208.47.234.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Military create change have financial stock. Public Mr new fact ability. Data dinner office radio black close factor.\nPrice student imagine heavy program several break source.",
+        "bio": "Financial wall throughout leave itself large. Age remember name economic five receive man.\nThus field where learn town water high employee. Then yet near place statement."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
