@@ -1,0 +1,25 @@
+{
+    "name": "Allison Hunt",
+    "age": 28,
+    "address": {
+        "street": "Foley Pass",
+        "city": "Hillhaven",
+        "state": "Ohio",
+        "zip": "89504"
+    },
+    "contact": {
+        "phone": "(972)750-5515",
+        "servicePhone": "800181956"
+    },
+    "birthday": "1997-26-06",
+    "ip": "28.96.219.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Common yard cultural bad also. Star go administration station.\nMedical American career care. State wind mention. Remain Republican relate want common art still.",
+        "bio": "Language might return. Box role benefit usually really morning. Body suggest more generation woman."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
